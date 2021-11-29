@@ -1,0 +1,638 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.25)  11 NOV 2019 02:16
+entering extended mode
+**./Report.tex
+(Report.tex
+LaTeX2e <2018-12-01>
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\artic
+le.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size1
+2.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/answers\an
+swers.sty"
+Package: answers 2014/08/24 v2.16 Production of solution sheets in LaTeX2e
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verb
+atim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks14
+\verbatim@line=\toks15
+\verbatim@in@stream=\read1
+))
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\s
+etspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\g
+raphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\k
+eyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\g
+raphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\t
+rig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-c
+fg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-d
+ef\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\e
+numitem.sty"
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip43
+\enit@outerparindent=\dimen105
+\enit@toks=\toks17
+\enit@inbox=\box27
+\enit@count@id=\count88
+\enitdp@description=\count89
+)
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\mult
+icol.sty"
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count90
+\mult@box=\box28
+\multicol@leftmargin=\dimen106
+\c@unbalance=\count91
+\c@collectmore=\count92
+\doublecol@number=\count93
+\multicoltolerance=\count94
+\multicolpretolerance=\count95
+\full@width=\dimen107
+\page@free=\dimen108
+\premulticols=\dimen109
+\postmulticols=\dimen110
+\multicolsep=\skip44
+\multicolbaselineskip=\skip45
+\partial@page=\box29
+\last@line=\box30
+\maxbalancingoverflow=\dimen111
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count96
+\c@finalcolumnbadness=\count97
+\last@try=\dimen112
+\multicolovershoot=\dimen113
+\multicolundershoot=\dimen114
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\mc@col@check@num=\count98
+)
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/jknappen\m
+athrsfs.sty"
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+)
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\g
+eometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\
+ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count99
+\Gm@cntv=\count100
+\c@Gm@tempcnt=\count101
+\Gm@bindingoffset=\dimen115
+\Gm@wd@mp=\dimen116
+\Gm@odd@mp=\dimen117
+\Gm@even@mp=\dimen118
+\Gm@layoutwidth=\dimen119
+\Gm@layoutheight=\dimen120
+\Gm@layouthoffset=\dimen121
+\Gm@layoutvoffset=\dimen122
+\Gm@dimlist=\toks18
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\g
+eometry.cfg"))
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\am
+smath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\am
+stext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\am
+sgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen123
+))
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\am
+sbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen124
+)
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\am
+sopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count102
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count103
+\leftroot@=\count104
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count105
+\DOTSCASE@=\count106
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+\big@size=\dimen125
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
+\dotsspace@=\muskip10
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
+\tag@help=\toks20
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
+\andhelp@=\toks21
+\eqnshift@=\dimen126
+\alignsep@=\dimen127
+\tagshift@=\dimen128
+\tagwidth@=\dimen129
+\totwidth@=\dimen130
+\lineht@=\dimen131
+\@envbody=\toks22
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\ams
+thm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip49
+\thm@postskip=\skip50
+\thm@headsep=\skip51
+\dth@everypar=\toks29
+)
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\a
+mssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\a
+msfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\e
+pstopdf.sty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\e
+pstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\g
+rfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\k
+voptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek
+\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\floa
+t.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count114
+\float@exts=\toks30
+\float@box=\box56
+\@float@everytoks=\toks31
+\@floatcapt=\box57
+) (Report.aux
+
+LaTeX Warning: Label `fig:verticalcell' multiply defined.
+
+
+LaTeX Warning: Label `fig:verticalcell' multiply defined.
+
+
+LaTeX Warning: Label `fig:verticalcell' multiply defined.
+
+
+LaTeX Warning: Label `fig:verticalcell' multiply defined.
+
+
+LaTeX Warning: Label `fig:verticalcell' multiply defined.
+
+
+LaTeX Warning: Label `fig:verticalcell' multiply defined.
+
+
+LaTeX Warning: Label `fig:verticalcell' multiply defined.
+
+
+LaTeX Warning: Label `fig:verticalcell' multiply defined.
+
+
+LaTeX Warning: Label `fig:verticalcell' multiply defined.
+
+
+LaTeX Warning: Label `fig:verticalcell' multiply defined.
+
+
+LaTeX Warning: Label `fig:verticalcell' multiply defined.
+
+
+LaTeX Warning: Label `fig:verticalcell' multiply defined.
+
+)
+\openout1 = `Report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mki
+i\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen132
+\scratchbox=\box58
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen133
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks33
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 52.
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/jknappen\u
+rsfs.fd"
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 52.
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\u
+msa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 52.
+
+("C:\Users\Shaily Mishra\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\u
+msb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<Yale_Eigen_Spectrum.png, id=1, 1084.05pt x 722.7pt>
+File: Yale_Eigen_Spectrum.png Graphic file (type png)
+<use Yale_Eigen_Spectrum.png>
+Package pdftex.def Info: Yale_Eigen_Spectrum.png  used on input line 66.
+(pdftex.def)             Requested size: 341.42793pt x 227.62204pt.
+<IMFDB_Eigen_Spectrum.png, id=3, 1084.05pt x 722.7pt>
+File: IMFDB_Eigen_Spectrum.png Graphic file (type png)
+<use IMFDB_Eigen_Spectrum.png>
+Package pdftex.def Info: IMFDB_Eigen_Spectrum.png  used on input line 73.
+(pdftex.def)             Requested size: 341.42793pt x 227.62204pt.
+ [1
+
+{C:/Users/Shaily Mishra/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Y
+ale_Eigen_Spectrum.png>]
+<IIIT_CFW_Eigen_Spectrum.png, id=12, 1084.05pt x 722.7pt>
+File: IIIT_CFW_Eigen_Spectrum.png Graphic file (type png)
+<use IIIT_CFW_Eigen_Spectrum.png>
+Package pdftex.def Info: IIIT_CFW_Eigen_Spectrum.png  used on input line 80.
+(pdftex.def)             Requested size: 341.42793pt x 227.62204pt.
+<Reconstruction_For_Yale_Face_Database.png, id=13, 578.16pt x 578.16pt>
+File: Reconstruction_For_Yale_Face_Database.png Graphic file (type png)
+<use Reconstruction_For_Yale_Face_Database.png>
+Package pdftex.def Info: Reconstruction_For_Yale_Face_Database.png  used on inp
+ut line 91.
+(pdftex.def)             Requested size: 227.61641pt x 227.62204pt.
+ [2 <./IMFDB_Eigen_Spectrum.png> <./IIIT_CFW_Eigen_Spectrum.png>]
+<Reconstruction_For_IMFDB_Database.png, id=19, 578.16pt x 578.16pt>
+File: Reconstruction_For_IMFDB_Database.png Graphic file (type png)
+<use Reconstruction_For_IMFDB_Database.png>
+Package pdftex.def Info: Reconstruction_For_IMFDB_Database.png  used on input l
+ine 98.
+(pdftex.def)             Requested size: 227.61641pt x 227.62204pt.
+<Reconstruction_For_IIIT_CFW_Database.png, id=20, 578.16pt x 578.16pt>
+File: Reconstruction_For_IIIT_CFW_Database.png Graphic file (type png)
+<use Reconstruction_For_IIIT_CFW_Database.png>
+Package pdftex.def Info: Reconstruction_For_IIIT_CFW_Database.png  used on inpu
+t line 105.
+(pdftex.def)             Requested size: 227.61641pt x 227.62204pt.
+ [3 <./Reconstruction_For_Yale_Face_Database.png> <./Reconstruction_For_IMFDB_D
+atabase.png>]
+<Yale_Face_Classification_Feature_Comparision.png, id=26, 705.63625pt x 177.663
+76pt>
+File: Yale_Face_Classification_Feature_Comparision.png Graphic file (type png)
+<use Yale_Face_Classification_Feature_Comparision.png>
+Package pdftex.def Info: Yale_Face_Classification_Feature_Comparision.png  used
+ on input line 124.
+(pdftex.def)             Requested size: 455.24408pt x 114.6207pt.
+<IMFDB_Face_Classification_Feature_Comparision.png, id=27, 705.63625pt x 177.66
+376pt>
+File: IMFDB_Face_Classification_Feature_Comparision.png Graphic file (type png)
+
+<use IMFDB_Face_Classification_Feature_Comparision.png>
+Package pdftex.def Info: IMFDB_Face_Classification_Feature_Comparision.png  use
+d on input line 132.
+(pdftex.def)             Requested size: 455.24408pt x 114.6207pt.
+ [4 <./Reconstruction_For_IIIT_CFW_Database.png> <./Yale_Face_Classification_Fe
+ature_Comparision.png>]
+<IIIT_CFW_Face_Classification_Feature_Comparision.png, id=33, 705.63625pt x 177
+.66376pt>
+File: IIIT_CFW_Face_Classification_Feature_Comparision.png Graphic file (type p
+ng)
+<use IIIT_CFW_Face_Classification_Feature_Comparision.png>
+Package pdftex.def Info: IIIT_CFW_Face_Classification_Feature_Comparision.png  
+used on input line 141.
+(pdftex.def)             Requested size: 455.24408pt x 114.6207pt.
+<Yale_Database_with_2_Components.png, id=34, 496.85625pt x 467.7475pt>
+File: Yale_Database_with_2_Components.png Graphic file (type png)
+<use Yale_Database_with_2_Components.png>
+Package pdftex.def Info: Yale_Database_with_2_Components.png  used on input lin
+e 157.
+(pdftex.def)             Requested size: 455.24408pt x 428.57715pt.
+ [5 <./IMFDB_Face_Classification_Feature_Comparision.png> <./IIIT_CFW_Face_Clas
+sification_Feature_Comparision.png>]
+<Yale_Database_with_3_Components.png, id=40, 461.725pt x 450.68375pt>
+File: Yale_Database_with_3_Components.png Graphic file (type png)
+<use Yale_Database_with_3_Components.png>
+Package pdftex.def Info: Yale_Database_with_3_Components.png  used on input lin
+e 165.
+(pdftex.def)             Requested size: 455.24408pt x 444.3559pt.
+ [6 <./Yale_Database_with_2_Components.png>]
+<IMFDB_Database_with_2_Components.png, id=45, 496.85625pt x 467.7475pt>
+File: IMFDB_Database_with_2_Components.png Graphic file (type png)
+<use IMFDB_Database_with_2_Components.png>
+Package pdftex.def Info: IMFDB_Database_with_2_Components.png  used on input li
+ne 173.
+(pdftex.def)             Requested size: 455.24408pt x 428.57715pt.
+ [7 <./Yale_Database_with_3_Components.png>]
+<IMFDB_Database_with_3_Components.png, id=51, 461.725pt x 450.68375pt>
+File: IMFDB_Database_with_3_Components.png Graphic file (type png)
+<use IMFDB_Database_with_3_Components.png>
+Package pdftex.def Info: IMFDB_Database_with_3_Components.png  used on input li
+ne 181.
+(pdftex.def)             Requested size: 455.24408pt x 444.3559pt.
+ [8 <./IMFDB_Database_with_2_Components.png>]
+<IIIT_CFW_Database_with_2_Components.png, id=56, 496.85625pt x 467.7475pt>
+File: IIIT_CFW_Database_with_2_Components.png Graphic file (type png)
+<use IIIT_CFW_Database_with_2_Components.png>
+Package pdftex.def Info: IIIT_CFW_Database_with_2_Components.png  used on input
+ line 188.
+(pdftex.def)             Requested size: 455.24408pt x 428.57715pt.
+ [9 <./IMFDB_Database_with_3_Components.png>]
+<IIIT_CFW_Database_with_3_Components.png, id=61, 461.725pt x 450.68375pt>
+File: IIIT_CFW_Database_with_3_Components.png Graphic file (type png)
+<use IIIT_CFW_Database_with_3_Components.png>
+Package pdftex.def Info: IIIT_CFW_Database_with_3_Components.png  used on input
+ line 196.
+(pdftex.def)             Requested size: 455.24408pt x 444.3559pt.
+ [10 <./IIIT_CFW_Database_with_2_Components.png>]
+<Combined_Database_with_2_Components.png, id=66, 496.85625pt x 504.88625pt>
+File: Combined_Database_with_2_Components.png Graphic file (type png)
+<use Combined_Database_with_2_Components.png>
+Package pdftex.def Info: Combined_Database_with_2_Components.png  used on input
+ line 204.
+(pdftex.def)             Requested size: 455.24408pt x 462.6058pt.
+ [11 <./IIIT_CFW_Database_with_3_Components.png>]
+<Combined_Database_with_3_Components.png, id=71, 461.725pt x 504.88625pt>
+File: Combined_Database_with_3_Components.png Graphic file (type png)
+<use Combined_Database_with_3_Components.png>
+Package pdftex.def Info: Combined_Database_with_3_Components.png  used on input
+ line 212.
+(pdftex.def)             Requested size: 455.24408pt x 497.79736pt.
+ [12 <./Combined_Database_with_2_Components.png>]
+<Yale_Face_Verification_Comparision.png, id=76, 867.24pt x 216.81pt>
+File: Yale_Face_Verification_Comparision.png Graphic file (type png)
+<use Yale_Face_Verification_Comparision.png>
+Package pdftex.def Info: Yale_Face_Verification_Comparision.png  used on input 
+line 230.
+(pdftex.def)             Requested size: 455.24408pt x 113.81041pt.
+ [13 <./Combined_Database_with_3_Components.png>]
+<IMFDB_Face_Verification_Comparision.png, id=82, 867.24pt x 216.81pt>
+File: IMFDB_Face_Verification_Comparision.png Graphic file (type png)
+<use IMFDB_Face_Verification_Comparision.png>
+Package pdftex.def Info: IMFDB_Face_Verification_Comparision.png  used on input
+ line 238.
+(pdftex.def)             Requested size: 455.24408pt x 113.81041pt.
+<IIIT_CFW_Face_Verification_Comparision.png, id=83, 867.24pt x 216.81pt>
+File: IIIT_CFW_Face_Verification_Comparision.png Graphic file (type png)
+<use IIIT_CFW_Face_Verification_Comparision.png>
+Package pdftex.def Info: IIIT_CFW_Face_Verification_Comparision.png  used on in
+put line 245.
+(pdftex.def)             Requested size: 455.24408pt x 113.81041pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--269
+
+ []
+
+<emotion_classification_accuracy.png, id=84, 800.9925pt x 156.585pt>
+File: emotion_classification_accuracy.png Graphic file (type png)
+<use emotion_classification_accuracy.png>
+Package pdftex.def Info: emotion_classification_accuracy.png  used on input lin
+e 273.
+(pdftex.def)             Requested size: 455.24408pt x 88.99632pt.
+[14 <./Yale_Face_Verification_Comparision.png> <./IMFDB_Face_Verification_Compa
+rision.png> <./IIIT_CFW_Face_Verification_Comparision.png>]
+<Scatter_Plot_of_pca.png, id=91, 461.725pt x 512.91624pt>
+File: Scatter_Plot_of_pca.png Graphic file (type png)
+<use Scatter_Plot_of_pca.png>
+Package pdftex.def Info: Scatter_Plot_of_pca.png  used on input line 280.
+(pdftex.def)             Requested size: 455.24408pt x 505.71465pt.
+ [15 <./emotion_classification_accuracy.png>]
+<Scatter_Plot_of_lda.png, id=96, 461.725pt x 512.91624pt>
+File: Scatter_Plot_of_lda.png Graphic file (type png)
+<use Scatter_Plot_of_lda.png>
+Package pdftex.def Info: Scatter_Plot_of_lda.png  used on input line 288.
+(pdftex.def)             Requested size: 455.24408pt x 505.71465pt.
+ [16 <./Scatter_Plot_of_pca.png>]
+<Emotion_Classification_TSNE.png, id=101, 388.45125pt x 522.95375pt>
+File: Emotion_Classification_TSNE.png Graphic file (type png)
+<use Emotion_Classification_TSNE.png>
+Package pdftex.def Info: Emotion_Classification_TSNE.png  used on input line 29
+5.
+(pdftex.def)             Requested size: 455.24408pt x 612.89078pt.
+ [17 <./Scatter_Plot_of_lda.png>] [18 <./Emotion_Classification_TSNE.png>] (Rep
+ort.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3634 strings out of 492945
+ 56864 string characters out of 3122698
+ 126054 words of memory out of 3000000
+ 7442 multiletter control sequences out of 15000+200000
+ 7639 words of font info for 31 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,6n,32p,394b,407s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Shaily Mishra/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb><C:/Users/Shaily Mishra/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Shaily Mishra/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Report.pdf (18 pages, 1139955 bytes).
+PDF statistics:
+ 121 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+
